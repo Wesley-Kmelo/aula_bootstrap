@@ -1,0 +1,49 @@
+body{
+    font: 20px Verdana,sans-serif;
+    }
+
+.navbar{
+    background-color: rgb(149, 130, 192);
+}
+
+.home{
+    background-color: rgb(221, 131, 131);
+    color: rgb(46, 44, 43);
+    }
+
+.pag1{
+    background-color: darkkhaki;
+    color: brown;
+}
+
+.pag2{
+    background-color: cadetblue;
+    color: rgb(72, 54, 88);
+}
+
+.btn-sm{
+    background-color: rgb(158, 97, 150);
+}
+
+.margin{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.col-lg-4{
+    padding-bottom: 20px;
+}
+
+.col-lg-3{
+    padding-bottom: 20px;
+}
+
+.rounded-circle{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.footer{
+    background-color: rgb(149, 130, 192);
+    color: aliceblue;
+}
