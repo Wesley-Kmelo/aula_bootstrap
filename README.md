@@ -1,2 +1,2 @@
 # aula_bootstrap
-Utilizando Bootstrap
+Conteúdo de iniciação ao framework Bootstrap. COnhecendo ferramentas e construindo primeira página com esse framework
